@@ -1,5 +1,5 @@
 <?php
-
+//pruebas
 namespace App\Entities\Interfaces;
 
 interface ProductInterface

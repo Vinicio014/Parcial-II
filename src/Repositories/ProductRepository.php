@@ -1,5 +1,5 @@
 <?php
-
+//pruebas
 namespace App\Repositories;
 
 use App\Entities\Interfaces\ProductInterface;
